@@ -1,2 +1,14 @@
-# WiRover
-A Wi-Fi controlled robotic vehicle built using ESP32, featuring a web based control interface for real-time Forward, Backward, Left, Right, and Stop movement control.
+WiRover is an ESP32-based wireless robotic vehicle that can be
+controlled through a web browser. The ESP32 creates its own Wi-Fi
+access point and hosts a web interface for controlling the vehicle
+in real time.
+
+## Features
+
+- Wi-Fi-based wireless control
+- Web browser control interface
+- Forward movement
+- Backward movement
+- Left and right turning
+- Stop control
+- ESP32-based embedded system
